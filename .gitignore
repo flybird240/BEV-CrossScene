@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# 本地压缩包
+*.rar
+*.zip
+
+# 视频素材
+*.mp4
+*.avi
